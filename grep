@@ -1,0 +1,1 @@
+grep is used to search directories/files for a specific string.  Can be used alongside other commands, e.g. printenv, wc, by using the pipeline to stransfer output into other commands
